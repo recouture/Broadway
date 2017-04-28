@@ -23,8 +23,27 @@ h2 {
   font-weight: bold;
    color: black;
 }
+h3 {
+  text-align: center;
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+   color: black;
+}
 p {
   font-family: Helvetica;
   font-size: 14px;
   color: black;
+}
+.ny h3 {
+  color: white;
+  background-image: url("file:///Users/LanaAlexis/Documents/Projects/Broadway/resources/the-flatiron-building.png")
+}
+footer {
+  background-color: dimgrey;
+}
+.foot {
+  font-family: Helvetica;
+  font-size: 11px;
+  color: white;
 }
