@@ -23,3 +23,8 @@ h2 {
   font-weight: bold;
    color: black;
 }
+p {
+  font-family: Helvetica;
+  font-size: 14px;
+  color: black;
+}
